@@ -22,7 +22,7 @@ process {
                 asdf = "asdfasdf"
                 Octopus.Action.RunOnServer = "false"
                 Octopus.Action.Template.Id = "ActionTemplates-4961"
-                Octopus.Action.Template.Version = "3"
+                Octopus.Action.Template.Version = "4"
             }
             worker_pool_variable = ""
         }
