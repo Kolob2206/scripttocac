@@ -12,14 +12,14 @@ run_retention_policy {
 
 process {
     step "script-to-cac" {
-        name = "script to cac"
+        name = "script to cacdd"
         properties = {
             Octopus.Action.TargetRoles = "bleep"
         }
 
         action {
             properties = {
-                asdf = "asdf"
+                asdf = "asdfasdf"
                 Octopus.Action.RunOnServer = "false"
                 Octopus.Action.Template.Id = "ActionTemplates-4961"
                 Octopus.Action.Template.Version = "1"
